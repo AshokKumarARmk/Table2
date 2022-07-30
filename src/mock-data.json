@@ -1,0 +1,90 @@
+[
+  {
+    "id": 101,
+    "medicineid": "11222",
+    "price": "7200",
+    "medicinename": "ABIRAPRO 250MG TABS",
+    "stock": "120",
+    "offer": "1+1"
+  },
+  {
+    "id": 2,
+    "medicineid": "1224",
+    "price": "711",
+    "medicinename": "ACCU-CHEK ACTIVE STRIP 50S",
+    "stock": "100",
+    "offer": "1+2"
+  },
+  {
+    "id": 3,
+    "medicineid": "8486",
+    "price": "34.80",
+    "medicinename": "BECADEXAMIN CAPS",
+    "stock": "50",
+    "offer": "No"
+  },
+  {
+    "id": 4,
+    "medicineid": "11514",
+    "price": "283",
+    "medicinename": "CABERNORM 0.5MG TABS",
+    "stock": "130",
+    "offer": "2+2"
+  },
+  {
+    "id": 5,
+    "medicineid": "11243",
+    "price": "141",
+    "medicinename": "DAPAGLYN-M 1000 TABS",
+    "stock": "40",
+    "offer": "No"
+  },
+  {
+    "id": 6,
+    "medicineid": "10294",
+    "price": "12",
+    "medicinename": "ELECTROKIND-Z SACHET",
+    "stock": "80",
+    "offer": "3+2"
+  },
+  {
+    "id": 7,
+    "medicineid": "563",
+    "price": "40",
+    "medicinename": "GASTICA FIZ TABS",
+    "stock": "200",
+    "offer": "5+1"
+  },
+  {
+    "id": 8,
+    "medicineid": "5308",
+    "price": "125",
+    "medicinename": "JUNIOR LANZOL 30MG TABS",
+    "stock": "25",
+    "offer": "3+1"
+  },
+  {
+    "id": 9,
+    "medicineid": "9824",
+    "price": "25",
+    "medicinename": "IMOL SUSPENSION",
+    "stock": "80",
+    "offer": "0+0"
+  },
+  {
+    "id": 10,
+    "medicineid": "9824",
+    "price": "25",
+    "medicinename": "IMOL SUSPENSION",
+    "stock": "80",
+    "offer": "0+0"
+  },
+  {
+    "id": 11,
+    "medicineid": "9833",
+    "price": "129",
+    "medicinename": "ZAC-D WOMEN CHEW TABS",
+    "stock": "75",
+    "offer": "0+0"
+  }
+]
